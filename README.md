@@ -15,4 +15,4 @@ The way I see it though, it just helps to center the face more. It's always both
 
 You may be wondering, how am I going to do this perfectly for 56 days straight? Surely I must have created a bot or something to automate making commits? Nope! I'm doing this all manually, which only makes it more impressive, though it doesn't say much for my coding skills. 
 
-I can't think of what else to say, so hello. Goodbye.
+Well, this is my last commit for today. Tomorrow, I'll be making 4 commits, which should make everything the correct shade of green from now on. See you tomorrow!
