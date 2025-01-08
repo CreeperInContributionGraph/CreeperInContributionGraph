@@ -15,5 +15,4 @@ The way I see it though, it just helps to center the face more. It's always both
 
 You may be wondering, how am I going to do this perfectly for 56 days straight? Surely I must have created a bot or something to automate making commits? Nope! I'm doing this all manually, which only makes it more impressive, though it doesn't say much for my coding skills.
 
-Well, this is my last commit for today. See you tomorrow, when I'll have to make 3 commits! The day after that, I'll make 4 commits, and then the shades of green on the graph will properly match the final product.
-Happy coding - or should I say mining and crafting
+If you see this sentence, I'm currently in the middle of making my comits for today.
