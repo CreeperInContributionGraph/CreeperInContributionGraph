@@ -1,6 +1,6 @@
 ## Welcome to the creeper in contribution graph user profile!
 
-The goal of this user is not to contribute normally, but to draw the face of a Minecraft creeper in my contributions graph.
+The goal of this user is not to contribute normally, but to draw the face of a Minecraft creeper in the contributions graph.
 I've been wanting to do this for a while, but now, I'm actually doing it. The whole process should take about 56 days to complete. I can't mess up once.
 
 If something looks off in the graph, it may be because of your timezone. I'm not sure how timezones are accounted for when viewing the graph, but I'm in the CST timezone.
@@ -15,8 +15,8 @@ The way I see it though, it just helps to center the face more. It's always both
 
 You may be wondering, how am I going to do this perfectly for 56 days straight? Surely I must have created a bot or something to automate making commits? Nope! I'm doing this all manually, which only makes it more impressive, though it doesn't say much for my coding skills. 
 
-Today, I am making four commits, which should finally make the colors on the graph all the correct shades of green. If not, then I might have to start over. 
-
 Below is my plan for the final product; my blueprint outlining how many commits are needed for each day.
 
 ![CreeperContributionGraph.png](CreeperContributionGraph.png)
+
+Well, this is my last commit for today, which should finally make the colors on the graph all the correct shades of green. If not, then I might have to start over. See you tomorrow!
