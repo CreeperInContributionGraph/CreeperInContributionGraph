@@ -19,4 +19,4 @@ Below is my plan for the final product; my blueprint outlining how many commits 
 
 ![CreeperContributionGraph.png](CreeperContributionGraph.png)
 
-Well, this is my last commit for today, which should finally make the colors on the graph all the correct shades of green. If not, then I might have to start over. See you tomorrow!
+I'm running out of ideas for things to put here for my commits, so I'll probably just start putting random stuff here and then removing it for my last commit of each day.
