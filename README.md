@@ -20,4 +20,4 @@ Below is my plan for the final product; my blueprint outlining how many commits 
 
 I'm running out of ideas for things to put here for my commits, so I'll probably just start putting random stuff here and then removing it for my last commit of each day.
 
-This is the end of week 2.
+Well, I'm about to make the last commit of week 2. Pretty soon it will start coming together.
