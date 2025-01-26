@@ -18,4 +18,4 @@ Below is my plan for the final product - my blueprint outlining how many commits
 
 ![CreeperContributionGraph.png](CreeperContributionGraph.png)
 
-I'm running out of ideas for things to put here for my commits, so I'll probably just start putting random stuff here and then removing it for my last commit of each day.
+I'm running out of ideas for things to put here for my commits, so I'm mostly just putting random stuff here and then removing it for my last commit of each day.
