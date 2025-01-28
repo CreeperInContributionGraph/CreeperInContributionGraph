@@ -17,6 +17,3 @@ You may be wondering, how am I going to do this perfectly for 56 days straight? 
 Below is my plan for the final product - my blueprint outlining how many commits are needed for each day.
 
 ![CreeperContributionGraph.png](CreeperContributionGraph.png)
-
-I almost missed it today. It about gave me a heart attack when I looked at my page before logging in to see that I had missed a day. Luckily, it corrected itself when I logged in.
-In order to see it correctly, I suppose you should be logged in and be in the right timezone.
