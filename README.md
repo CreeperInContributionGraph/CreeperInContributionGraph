@@ -18,4 +18,4 @@ Below is my plan for the final product - my blueprint outlining how many commits
 
 ![CreeperContributionGraph.png](CreeperContributionGraph.png)
 
-The
+We're halfway there!
