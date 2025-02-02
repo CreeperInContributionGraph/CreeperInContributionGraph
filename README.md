@@ -18,4 +18,4 @@ Below is my plan for the final product—my blueprint outlining how many commits
 
 ![CreeperContributionGraph.png](CreeperContributionGraph.png)
 
-Today marks the halfway point of this project! So far, there have been no mess-ups, though one close call. You may need to be in the correct timezone to view the contribution graph properly—I'm not sure if or how it accounts for timezones.
+Yesterday marked the halfway point of this project! So far, there have been no mess-ups, though one close call. You may need to be in the correct timezone to view the contribution graph properly—I'm not sure if or how it accounts for timezones.
