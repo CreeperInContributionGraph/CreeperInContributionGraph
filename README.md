@@ -19,11 +19,19 @@ Below is my plan for the final product—my blueprint outlining how many commits
 ![CreeperContributionGraph.png](CreeperContributionGraph.png)
 
 I'm a Creeper, Minecraft's Grim Reaper
+
 Blowing up blocks like Al-Qaeda
+
 I'm not a creature that'll eat ya
+
 But I'll leave ya petrified, Peter
+
 Remind peeps of Minesweeper
+
 Clicking on a brick then you die in the deep
+
 I'll find your mine, I'm a mind reader
+
 Now the mine is mine, it's finders-keepers
+
 Oh, hi! I'm a Creeper
