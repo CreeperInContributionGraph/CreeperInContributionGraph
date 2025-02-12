@@ -17,4 +17,4 @@ You may be wondering, how am I going to do this perfectly for 56 days straight? 
 Below is my plan for the final product—my blueprint outlining how many commits are needed for each day.
 
 ![CreeperContributionGraph.png](CreeperContributionGraph.png)
-commit 2/4
+commit 3/4 im kind of rushed today
