@@ -1,4 +1,4 @@
-## Welcome to the Creeper in Contribution Graph user profile!
+ ## Welcome to the Creeper in Contribution Graph user profile!
 
 The goal of this user is not to contribute normally, but to draw the face of a Minecraft creeper in the contributions graph.
 I've been wanting to do this for a while, but now, I'm actually doing it. The whole process should take about 56 days to complete. I can't mess up once.
@@ -17,4 +17,3 @@ You may be wondering, how am I going to do this perfectly for 56 days straight? 
 Below is my plan for the final product—my blueprint outlining how many commits are needed for each day:
 
 ![CreeperContributionGraph.png](CreeperContributionGraph.png)
-e
