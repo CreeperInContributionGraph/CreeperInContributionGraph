@@ -17,5 +17,3 @@ You may be wondering, how am I going to do this perfectly for 56 days straight? 
 Below is my plan for the final product—my blueprint outlining how many commits are needed for each day:
 
 ![CreeperContributionGraph.png](CreeperContributionGraph.png)
-
-I'm going to have to change this up to be in the past tense before the end of this week.
