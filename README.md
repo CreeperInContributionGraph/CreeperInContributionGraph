@@ -18,4 +18,4 @@ Below is my plan for the final product—my blueprint outlining how many commits
 
 ![CreeperContributionGraph.png](CreeperContributionGraph.png)
 
-I still can't think of anything else to add here.
+I'm going to have to change this up to be in the past tense before the end of this week.
