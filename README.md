@@ -1,7 +1,7 @@
  ## Welcome to the Creeper in Contribution Graph user profile!
 
 The goal of this user is not to contribute normally, but to draw the face of a Minecraft creeper in the contributions graph.
-I've been wanting to do this for a while, but now, I'm actually doing it. The whole process should take about 56 days to complete. I can't mess up once.
+I had been wanting to do this for a while, but now, I'm actually doing it. The whole process should take about 56 days to complete. I can't mess up once.
 
 If something looks off in the graph, it may be because of your timezone. I'm not sure how timezones are accounted for when viewing the graph, but I'm in the CST timezone. I _usually_ make my contributions between 11 AM and 6 PM CST.
 
