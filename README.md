@@ -12,7 +12,7 @@ The way I see it though, it just helps to center the face more. It's always both
 
 ### How I do it
 
-You may be wondering, how am I going to do this perfectly for 56 days straight? Surely I must have created a bot or something to automate making commits? Nope! I'm doing this all manually, which only makes it more impressive, though it doesn't say much for my coding skills. So far, there have been no mess-ups, though one close call. You may need to be in the correct timezone to view the contribution graph properly—I'm not sure if or how it accounts for timezones.
+You may be wondering, how am I going to do this perfectly for 56 days straight? Surely I must have created a bot or something to automate making commits? Nope! I'm doing this all manually, which only makes it more impressive, though it doesn't say much for my coding skills.
 
 Below is my plan for the final product—my blueprint outlining how many commits are needed for each day:
 
