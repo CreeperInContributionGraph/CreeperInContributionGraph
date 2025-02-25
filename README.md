@@ -3,7 +3,7 @@
 The goal of this user is not to contribute normally, but to draw the face of a Minecraft creeper in the contributions graph.
 I had been wanting to do this for a while, but now, I'm actually doing it. The whole process should take about 56 days to complete. I can't mess up once.
 
-Based on some testing I did, your timezone shouldn't affect how the graph appears, but if it does, I made all of my commits between 11:00 AM and 7:00 PM CST, so switching to that timezone should help.
+Based on some testing I did, your timezone shouldn't affect how the graph appears, but if it does, I made all of my commits between 11:00 AM and 7:00 PM CST, so switching to Central Stadard Time should help.
 
 The creeper in my profile pic is roughly what I am going for as my final product, however, that one was made via inspect page. This one will be for real! That image inspired this.
 
