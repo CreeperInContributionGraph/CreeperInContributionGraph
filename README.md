@@ -8,7 +8,7 @@ Based on some testing I did, your timezone shouldn't affect how the graph appear
 As you may have noticed, a Minecraft creeper face is 8x8, however, a week is only 7 days. To account for this, the top row of pixels is cut off, so it's a 7x8 pixel art instead.
 The way I see it though, it just helps to center the face more. It's always bothered me *just a little* that the face is not centered vertically when it could be.
 
-### How I do it
+### How I did it
 
 You may be wondering, how have I done this perfectly for 56 days straight? Surely I must have created a bot or something to automate making commits, right? Nope! I've done this all manually, which only makes it more impressive, in my opinion, though it doesn't say much for my coding skills.
 
